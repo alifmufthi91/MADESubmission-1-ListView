@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MADESubmission-1</string>
+    <string name="app_name">Movie Catalog</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_text">Aplikasi ini dibuat untuk memenuhi Modul Submission pada Materi Belajar Menjadi Android Developer Expert \n\nAPI yang digunakan sebagai data pada aplikasi ini adalah \nhttps://api.themoviedb.org/</string>
+    <string name="about_email">alif.stinky@gmail.com</string>
+    <string name="about_name">Alif Mufthi</string>
 </resources>
